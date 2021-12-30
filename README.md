@@ -5,8 +5,8 @@
 Atividade desenvolvida durante o curso de Flutter da Alura:
 
 - Navegação entre telas ✔️
-- Salvar transferencias ✔️
-- Exibir todas as transferencias ✔️
+- Salvar transferências ✔️
+- Exibir todas as transferências ✔️
 
 ##
 
