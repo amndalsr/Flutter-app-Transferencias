@@ -3,12 +3,11 @@
 
 Atividade desenvolvida durante o curso de Flutter da Alura:
 
-### Objetivos:
-- Cadastrar venda ✔️
-- Guardar informações sobre o cliente ✔️
-- Exibir total de vendas ❌
-- Filtar vendas por data ✔️
-- Filtar vendas por UF ✔️
+- Navegação entre telas ✔️
+- Salvar transferencias ✔️
+- Exibir todas as transferencias ✔️
+
+##
 
 <div align="center">
   <img height="500" src="https://user-images.githubusercontent.com/72527935/147789200-085605e0-7dd3-4ed0-a6a9-5d23a55193b2.png" >
