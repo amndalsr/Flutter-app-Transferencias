@@ -4,7 +4,7 @@
 ![tela2](https://user-images.githubusercontent.com/72527935/147789204-709bc0e8-29f0-41dc-97dd-ad1e7fcadcbe.png)
 ![tela3](https://user-images.githubusercontent.com/72527935/147789208-59fc24a9-675a-40df-b48f-a980fc03df31.png)
 
-
+img height="23em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
 
 A new Flutter project.
 
